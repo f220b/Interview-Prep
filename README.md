@@ -2,6 +2,7 @@
 * Amazon
 * American Express
 * Bloomberg
+* D. E. Shaw
 * DSA
 * Expedia
 * Google
