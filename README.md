@@ -8,5 +8,6 @@
 * Google
 * Hiring Updates of Companies Tier Vise in India | FAANG | TECH | EDA
 * Netflix
+* Oracle
 * System Design
 
